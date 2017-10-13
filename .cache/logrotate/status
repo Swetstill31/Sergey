@@ -1,0 +1,17 @@
+logrotate state -- version 2
+"/home/swetstil/.cache/upstart/unity-settings-daemon.log" 2017-10-13-16:17:14
+"/home/swetstil/.cache/upstart/unity-panel-service.log" 2017-10-13-16:17:14
+"/home/swetstil/.cache/upstart/unity-panel-service-lockscreen.log" 2017-10-13-16:0:0
+"/home/swetstil/.cache/upstart/ssh-agent.log" 2017-10-13-16:17:14
+"/home/swetstil/.cache/upstart/indicator-keyboard.log" 2017-10-13-16:0:0
+"/home/swetstil/.cache/upstart/upstart-event-bridge.log" 2017-10-13-16:17:14
+"/home/swetstil/.cache/upstart/gpg-agent.log" 2017-10-13-16:17:14
+"/home/swetstil/.cache/upstart/unity7.log" 2017-10-13-16:17:14
+"/home/swetstil/.cache/upstart/indicator-sound.log" 2017-10-13-16:17:14
+"/home/swetstil/.cache/upstart/window-stack-bridge.log" 2017-10-13-16:17:14
+"/home/swetstil/.cache/upstart/indicator-printers.log" 2017-10-13-16:0:0
+"/home/swetstil/.cache/upstart/bamfdaemon.log" 2017-10-13-16:0:0
+"/home/swetstil/.cache/upstart/gnome-keyring.log" 2017-10-13-16:17:14
+"/home/swetstil/.cache/upstart/dbus.log" 2017-10-13-16:17:14
+"/home/swetstil/.cache/upstart/hud.log" 2017-10-13-16:0:0
+"/home/swetstil/.cache/upstart/gnome-keyring-ssh.log" 2017-10-13-16:17:14

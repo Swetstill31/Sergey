@@ -1,0 +1,5 @@
+
+--- Starting log [/home/swetstil/.warzone2100-3.1/logs/WZlog-1013_224848.txt]---
+info    |10:48:48: [realmain:1145] Using /home/swetstil/.warzone2100-3.1/logs/WZlog-1013_224848.txt debug file
+info    |10:48:53: [seq_Play:565] unable to open 'sequences/cam1/c001.ogg' for playback
+info    |10:49:56: [seq_Play:565] unable to open 'sequences/cam1/cam1ascv.ogg' for playback

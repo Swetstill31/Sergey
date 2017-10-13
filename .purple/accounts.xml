@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<account version='1.0'>
+	<account>
+		<protocol>prpl-jabber</protocol>
+		<name>minercrack@xmpp.jp/</name>
+		<password>extybr4892gjgjd2010</password>
+		<alias>MinerPro++</alias>
+		<statuses>
+			<status type='available' name='Доступен' active='true'>
+				<attributes/>
+			</status>
+			<status type='mood' name='Чувство' active='false'>
+				<attributes/>
+			</status>
+			<status type='freeforchat' name='Готов пообщаться' active='false'>
+				<attributes/>
+			</status>
+			<status type='away' name='Отошёл' active='false'>
+				<attributes/>
+			</status>
+			<status type='extended_away' name='Расширенный &quot;Отошёл&quot;' active='false'>
+				<attributes/>
+			</status>
+			<status type='dnd' name='Не беспокоить' active='false'>
+				<attributes/>
+			</status>
+			<status type='offline' name='Не в сети' active='false'>
+				<attributes/>
+			</status>
+		</statuses>
+		<settings>
+			<setting name='bosh_url' type='string'></setting>
+			<setting name='auth_plain_in_clear' type='bool'>0</setting>
+			<setting name='custom_smileys' type='bool'>1</setting>
+			<setting name='port' type='int'>5222</setting>
+			<setting name='connect_server' type='string'></setting>
+			<setting name='ft_proxies' type='string'>proxy.eu.jabber.org</setting>
+			<setting name='check-mail' type='bool'>0</setting>
+			<setting name='connection_security' type='string'>opportunistic_tls</setting>
+			<setting name='use-global-buddyicon' type='bool'>1</setting>
+			<setting name='silence-suppression' type='bool'>0</setting>
+		</settings>
+		<settings ui='gtk-gaim'>
+			<setting name='auto-login' type='bool'>0</setting>
+		</settings>
+		<current_error/>
+	</account>
+	<account>
+		<protocol>prpl-icq</protocol>
+		<name>357354342</name>
+		<statuses>
+			<status type='available' name='Доступен' active='true'>
+				<attributes/>
+			</status>
+			<status type='free4chat' name='Готов пообщаться' active='false'>
+				<attributes/>
+			</status>
+			<status type='evil' name='Злой' active='false'>
+				<attributes/>
+			</status>
+			<status type='depression' name='Подавленность' active='false'>
+				<attributes/>
+			</status>
+			<status type='athome' name='Дома' active='false'>
+				<attributes/>
+			</status>
+			<status type='atwork' name='На работе' active='false'>
+				<attributes/>
+			</status>
+			<status type='lunch' name='Ланч' active='false'>
+				<attributes/>
+			</status>
+			<status type='away' name='Отошёл' active='false'>
+				<attributes>
+					<attribute id='message' value='Прямо сейчас меня здесь нет'/>
+				</attributes>
+			</status>
+			<status type='invisible' name='Невидимый' active='false'>
+				<attributes/>
+			</status>
+			<status type='occupied' name='Занят' active='false'>
+				<attributes/>
+			</status>
+			<status type='dnd' name='Не беспокоить' active='false'>
+				<attributes/>
+			</status>
+			<status type='na' name='Недоступен' active='false'>
+				<attributes/>
+			</status>
+			<status type='offline' name='Не в сети' active='false'>
+				<attributes/>
+			</status>
+			<status type='mood' name='Чувство' active='false'>
+				<attributes/>
+			</status>
+		</statuses>
+		<settings>
+			<setting name='encoding' type='string'>ISO-8859-1</setting>
+			<setting name='encryption' type='string'>opportunistic_encryption</setting>
+			<setting name='always_use_rv_proxy' type='bool'>0</setting>
+			<setting name='port' type='int'>5190</setting>
+			<setting name='check-mail' type='bool'>0</setting>
+			<setting name='use_clientlogin' type='bool'>1</setting>
+			<setting name='server' type='string'>slogin.icq.com</setting>
+			<setting name='use-global-buddyicon' type='bool'>1</setting>
+		</settings>
+		<settings ui='gtk-gaim'>
+			<setting name='auto-login' type='bool'>1</setting>
+		</settings>
+		<current_error/>
+	</account>
+</account>

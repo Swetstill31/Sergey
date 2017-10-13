@@ -1,0 +1,4 @@
+[Added Associations]
+application/x-rar=org.gnome.FileRoller.desktop;
+application/x-sharedlib=gedit.desktop;
+application/x-ms-dos-executable=org.gnome.FileRoller.desktop;

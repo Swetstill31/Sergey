@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<purple version='1.0'>
+	<blist>
+		<group name='General'/>
+		<group name='Пацаны'/>
+		<group name='Phone Contacts'/>
+		<group name='Conferences'/>
+		<group name='ICQ Notifier'/>
+		<group name='Телки'>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>408223435</name>
+					<alias>Женя.:)</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>561737267</name>
+					<alias>Ксюха!</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>565234503</name>
+					<alias>Михаил</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>259807173</name>
+					<alias>Машуня</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>447857636</name>
+					<alias>Катя</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>611001730</name>
+					<alias>Иринка*</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>593400474</name>
+					<alias>Дашулька</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>463522711</name>
+					<alias>Труфвнова</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>147682755</name>
+					<alias>Лерочка</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>574941011</name>
+					<alias>ДаШа</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>563587523</name>
+					<alias>М@нд@рин|{@</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>326836339</name>
+					<alias>Анечка</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>381282200</name>
+					<alias>Hirudinea</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>357551421</name>
+					<alias>Маленькая</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>612877389</name>
+					<alias>ЖеНеЧкА</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>490542446</name>
+					<alias>Гаргулья</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>380358634</name>
+					<alias>Котеночек</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>354442832</name>
+					<alias>ЛеськА</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>398846809</name>
+					<alias>Эля</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>409526297</name>
+					<alias>Evidence</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>363339846</name>
+					<alias>Татьяна Дмитревна</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>588726774</name>
+					<alias>Стервачка</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>575641237</name>
+					<alias>ЖеНеЧкА</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>457592762</name>
+					<alias>самочка</alias>
+				</buddy>
+			</contact>
+		</group>
+		<group name='Клиентура'>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>103088600</name>
+					<alias>Леонид</alias>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='357354342' proto='prpl-icq'>
+					<name>641593440</name>
+					<alias>Лётчик</alias>
+				</buddy>
+			</contact>
+		</group>
+	</blist>
+	<privacy>
+		<account proto='prpl-jabber' name='minercrack@xmpp.jp/' mode='1'/>
+		<account proto='prpl-icq' name='357354342' mode='1'>
+			<block>116790387</block>
+			<block>438247472</block>
+			<block>605435640</block>
+			<block>399812554</block>
+			<block>607178528</block>
+			<block>399765304</block>
+			<block>607500239</block>
+			<block>399794874</block>
+			<block>399800394</block>
+			<block>422860983</block>
+			<block>422897715</block>
+			<block>399754498</block>
+			<block>581917767</block>
+			<block>434714122</block>
+			<block>202805107</block>
+			<block>156211149</block>
+			<block>399796031</block>
+			<block>779261</block>
+			<block>399798273</block>
+			<block>399754414</block>
+			<block>399812689</block>
+			<block>116783098</block>
+			<block>116790938</block>
+			<block>600113799</block>
+			<block>631494347</block>
+			<block>610438231</block>
+			<block>624316953</block>
+			<block>470577387</block>
+			<block>958279</block>
+			<block>242244224</block>
+		</account>
+	</privacy>
+</purple>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<statuses version='1.0'>
+	<status name='Auto-Cached' transient='true' created='1507902300' lastused='1507914629' usage_count='10'>
+		<state>available</state>
+	</status>
+	<status name='Auto-Cached' transient='true' created='1507910673' lastused='1507910759' usage_count='2'>
+		<state>available</state>
+		<message>Работаем </message>
+	</status>
+	<status name='Auto-Cached' transient='true' created='1507903764' lastused='1507903764' usage_count='2'>
+		<state>unavailable</state>
+	</status>
+	<status name='Auto-Cached' transient='true' created='1507915133' lastused='1507915133' usage_count='1'>
+		<state>available</state>
+		<substatus>
+			<account protocol='prpl-icq'>357354342</account>
+			<state>available</state>
+		</substatus>
+	</status>
+	<status name='Auto-Cached' transient='true' created='1507911156' lastused='1507911156' usage_count='1'>
+		<state>offline</state>
+	</status>
+	<status name='Auto-Cached' transient='true' created='1507910663' lastused='1507910663' usage_count='1'>
+		<state>available</state>
+		<message>H</message>
+	</status>
+	<status name='Auto-Cached' transient='true' created='1507910406' lastused='1507910406' usage_count='1'>
+		<state>away</state>
+	</status>
+	<status name='Auto-Cached' transient='true' created='1507904930' lastused='0' usage_count='0'>
+		<state>away</state>
+		<message>Прямо сейчас меня здесь нет</message>
+	</status>
+</statuses>

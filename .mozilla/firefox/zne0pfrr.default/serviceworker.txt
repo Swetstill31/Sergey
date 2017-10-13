@@ -1,0 +1,15 @@
+6
+
+https://web.telegram.org/
+https://web.telegram.org/service_worker.js
+true
+{cb55fefd-9614-4731-9b38-0e50abde7dce}
+0
+#
+
+https://www.youtube.com/
+https://www.youtube.com/sw.js
+false
+{08e9dcee-ff81-4d52-af60-162a59897059}
+0
+#

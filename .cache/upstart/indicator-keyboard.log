@@ -1,0 +1,8 @@
+
+(indicator-keyboard-service:1538): Gdk-WARNING **: indicator-keyboard-service: Fatal IO error 11 (Ресурс временно недоступен) on X server :0.
+
+
+(gkbd-keyboard-display:627): Gtk-CRITICAL **: gtk_widget_set_allocation: assertion '_gtk_widget_get_visible (widget) || _gtk_widget_is_toplevel (widget)' failed
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+
+(gkbd-keyboard-display:627): GLib-CRITICAL **: Source ID 33 was not found when attempting to remove it
